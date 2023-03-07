@@ -1,6 +1,6 @@
-### Olá! Sou o Jhonatan Santos
+### Olá! Seja bem vindo
 
-Estudante de Análise e desenvolvimento de Sistemas no SENACSP, me aprofundando em desenvolvimento web e ciência de dados. 
+Atualmente sou estudante do curso de Análise e desenvolvimento de Sistemas no SENACSP, e estagiário do time de riscos financeiros do Itaú Unibanco. 
 
 <div>
   <a href="https://github.com/jrsantos1"> 
