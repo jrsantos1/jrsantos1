@@ -1,6 +1,6 @@
 ### Olá! Sou o Jhonatan Santos
 
-Estudante de Análise e desenvolvimento de Sistemas - SENACSP
+Estudante de Análise e desenvolvimento de Sistemas no SENACSP, me aprofundando em desenvolvimento web e ciência de dados. 
 
 <div>
   <a href="https://github.com/jrsantos1"> 
