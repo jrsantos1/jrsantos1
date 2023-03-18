@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo
 
-Sou o Jhon, atualmente estudante do curso de Análise e desenvolvimento de Sistemas no SENACSP, e estagiário em riscos financeiros no Itaú Unibanco. 
+Sou o Jhow, atualmente estudante do curso de Análise e desenvolvimento de Sistemas no SENACSP, e estagiário em riscos financeiros no Itaú Unibanco. 
 
 <div>
   <a href="https://github.com/jrsantos1"> 
