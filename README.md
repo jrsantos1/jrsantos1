@@ -11,3 +11,7 @@ Sou o Jhon, atualmente estudante do curso de Análise e desenvolvimento de Siste
 <div> 
     <a href = "https://www.linkedin.com/in/jhonatan-r-baa992a3/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+  
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jrsantos1&theme=github-compact)](https://github.com/jrsantos1/github-readme-activity-graph)
